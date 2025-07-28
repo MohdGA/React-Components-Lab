@@ -7,6 +7,7 @@ section .weather {
   flex: 1;
   padding: 10px;
   text-align: center;
+  border-radius: 5px;
 }
 
 .weather span {
